@@ -8,7 +8,7 @@ After looking for a simple solution to automatically deploy a simply PHP repo ho
 
 ##The steps to nirvana:
 
-###1. First, clone your Github repo on the target server(s).   
+###First, clone your Github repo on the target server(s).   
 In our case, this was two root folders on one Ubuntu server -- one for staging changes to our marketing web site, and the other for production. 
 
 ### We now have one github project, with the exact same repo in two folders on an Ubuntu server.  
